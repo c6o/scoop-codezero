@@ -1,0 +1,17 @@
+{
+  "version": "2.3.3",
+  "architecture": {
+    "64bit": {
+      "url": "https://releases.codezero.io/2.3.3/headless-windows-amd64.zip",
+      "bin": ["czctl.exe", "czdaemon.exe"],
+      "hash": "4f2d0f9cdc4d69b70614c56ed11bad4699057e07d32b22fc3ca0f7e65d914609"
+    },
+    "arm64": {
+      "url": "https://releases.codezero.io/2.3.3/headless-windows-arm64.zip",
+      "bin": ["czctl.exe", "czdaemon.exe"],
+      "hash": "b9344f7ed70d12323cdfa08c4c459ba6f6dce1ce90a4ab0347f3e55c8e05e143"
+    }
+  },
+  "homepage": "https://codezero.io/",
+  "description": "Collaborative Local Microservices Development"
+}
