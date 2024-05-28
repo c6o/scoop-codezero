@@ -4,12 +4,12 @@
     "64bit": {
       "url": "https://releases.codezero.io/2.3.3/headless-windows-amd64.zip",
       "bin": ["czctl.exe", "czdaemon.exe"],
-      "hash": "4f2d0f9cdc4d69b70614c56ed11bad4699057e07d32b22fc3ca0f7e65d914609"
+      "hash": "477473c2270af06583f56937a5949abe1d8b12f7db7df3ea03758cee85e45cb3"
     },
     "arm64": {
       "url": "https://releases.codezero.io/2.3.3/headless-windows-arm64.zip",
       "bin": ["czctl.exe", "czdaemon.exe"],
-      "hash": "b9344f7ed70d12323cdfa08c4c459ba6f6dce1ce90a4ab0347f3e55c8e05e143"
+      "hash": "5b422b8ace77c4a0831ee9ba80e464cdf2a64f61926a0cc3b2632fee2a756457"
     }
   },
   "homepage": "https://codezero.io/",
