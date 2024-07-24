@@ -1,21 +1,21 @@
 {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "architecture": {
         "64bit": {
-            "url": "https://releases.codezero.io/2.5.1/headless-windows-amd64.zip",
+            "url": "https://releases.codezero.io/2.5.2/headless-windows-amd64.zip",
             "bin": [
                 "czctl.exe",
                 "czdaemon.exe"
             ],
-            "hash": "07fb36086cd497fd4b896448acfaf527b377a5271f59f1f41ff54159bfca3d32"
+            "hash": "ff0af76aca2bef152704f7937a08d3a9e66821afe7b8a107baed09fd35ff11e8"
         },
         "arm64": {
-            "url": "https://releases.codezero.io/2.5.1/headless-windows-arm64.zip",
+            "url": "https://releases.codezero.io/2.5.2/headless-windows-arm64.zip",
             "bin": [
                 "czctl.exe",
                 "czdaemon.exe"
             ],
-            "hash": "8be6bf31ae2a8d75fea76641fa714f7592030c8280ebe8901639e93fd0f975f4"
+            "hash": "f70cba8f8813727f45a6abf1af37b684afc0e763440516c66c7bf82705e03e68"
         }
     },
     "homepage": "https://codezero.io/",
