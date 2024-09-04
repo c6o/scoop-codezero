@@ -1,0 +1,21 @@
+{
+    "version": "2.7.0-beta1",
+    "architecture": {
+        "64bit": {
+            "url": "https://releases.codezero.io/2.7.0-beta1/headless-windows-amd64.zip",
+            "bin": [
+                "czctl.exe"
+            ],
+            "hash": "3e563a7e7fd5b4707e60839823a77bbef1feef0f03fd89170b676444536f7a1d"
+        },
+        "arm64": {
+            "url": "https://releases.codezero.io/2.7.0-beta1/headless-windows-arm64.zip",
+            "bin": [
+                "czctl.exe"
+            ],
+            "hash": "fe4cf31c92f6c687343cd705e1fbdba3f55f3f07233a683a87dc54b5dcba2824"
+        }
+    },
+    "homepage": "https://codezero.io/",
+    "description": "Collaborative Local Microservices Development"
+}
