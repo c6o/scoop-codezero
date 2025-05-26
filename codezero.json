@@ -6,14 +6,14 @@
             "bin": [
                 "czctl.exe"
             ],
-            "hash": "5cc46940f205870bb61966cadcc64c70e094bd4d5b3f808665f4ed107c93171e"
+            "hash": "c31f431f41b8197e1219d4a82bceff99e05cba6b38ef03b5b3bcf0188c759570"
         },
         "arm64": {
             "url": "https://releases.codezero.io/2.17.2/headless-windows-arm64.zip",
             "bin": [
                 "czctl.exe"
             ],
-            "hash": "7d575f2e7090609a9ae370f9df40e025f88571483aab17ac6787d9e88d28fe34"
+            "hash": "db07a7a70984c6902057e0f6756238c7db1b61618708ff7b9b50a07c6c34241d"
         }
     },
     "homepage": "https://codezero.io/",
