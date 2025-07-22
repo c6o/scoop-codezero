@@ -1,19 +1,19 @@
 {
-    "version": "2.19.0",
+    "version": "2.20.0",
     "architecture": {
         "64bit": {
-            "url": "https://releases.codezero.io/2.19.0/headless-windows-amd64.zip",
+            "url": "https://releases.codezero.io/2.20.0/headless-windows-amd64.zip",
             "bin": [
                 "czctl.exe"
             ],
-            "hash": "06cab4d781ce6ebb1fc1dd5e5812ff1dae12d8578166e006c1331cd255905368"
+            "hash": "e900b39dab0b8591e91f603e8ed84228b11c42792b9b9ef7ee9bc531a424fa90"
         },
         "arm64": {
-            "url": "https://releases.codezero.io/2.19.0/headless-windows-arm64.zip",
+            "url": "https://releases.codezero.io/2.20.0/headless-windows-arm64.zip",
             "bin": [
                 "czctl.exe"
             ],
-            "hash": "8e312efd79a526f68c9289434ab2f13042e954d78ad77ec01db339374967a97e"
+            "hash": "a2cba6ca08bbc96dda49f999e353395af53628b92f792c4064c75ca3b62457de"
         }
     },
     "homepage": "https://codezero.io/",
